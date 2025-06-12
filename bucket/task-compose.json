@@ -1,0 +1,22 @@
+{
+    "version": "0.0.7",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vulcanshen-tpi/task-compose/releases/download/v0.0.7/task-compose_0.0.7_windows_amd64.zip",
+            "bin": [
+                "task-compose.exe"
+            ],
+            "hash": "a892fa07b7c86586462d2102fe30b0d9b5883b20f351bcc20384e934d4079fd9"
+        },
+        "arm64": {
+            "url": "https://github.com/vulcanshen-tpi/task-compose/releases/download/v0.0.7/task-compose_0.0.7_windows_arm64.zip",
+            "bin": [
+                "task-compose.exe"
+            ],
+            "hash": "af48061203392954bec7cdc45148b79ad3eb57902743c0b294d41fb8d9af0925"
+        }
+    },
+    "homepage": "https://github.com/vulcanshen-tpi/task-compose",
+    "license": "MIT",
+    "description": "A command orchestration tool for declarative task execution."
+}
