@@ -1,19 +1,19 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vulcanshen-tpi/task-compose/releases/download/v1.1.1/task-compose_1.1.1_windows_amd64.zip",
+            "url": "https://github.com/vulcanshen-tpi/task-compose/releases/download/v1.1.2/task-compose_1.1.2_windows_amd64.zip",
             "bin": [
                 "task-compose.exe"
             ],
-            "hash": "4318a04cf98ae535343c0558aa9422b9bd826441764b5dc7f6b766da83436724"
+            "hash": "ce9da0501bc59900ff97f52fb0c68691766029f9d7692f38c5268864edcdb1f4"
         },
         "arm64": {
-            "url": "https://github.com/vulcanshen-tpi/task-compose/releases/download/v1.1.1/task-compose_1.1.1_windows_arm64.zip",
+            "url": "https://github.com/vulcanshen-tpi/task-compose/releases/download/v1.1.2/task-compose_1.1.2_windows_arm64.zip",
             "bin": [
                 "task-compose.exe"
             ],
-            "hash": "eb401a9ed1be86d0034e74091cdb7c3a6185ddabd34fe574d005db793122719e"
+            "hash": "cef4d74fd0c5f73970754480e0a21b90379d78d77dd7f711d5d009189eaf89fe"
         }
     },
     "homepage": "https://github.com/vulcanshen-tpi/task-compose",
